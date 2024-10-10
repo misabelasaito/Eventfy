@@ -1,4 +1,4 @@
-![Imagem de capa](assets/img/card/readme.png)
+![Imagem de capa](assets/img/card/readme.gif)
 
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Eventfy app de eventos culturais
