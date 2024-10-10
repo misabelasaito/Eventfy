@@ -1,6 +1,6 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Nome do Projeto
-**Descrição:**
+**Descrição:** 
 O projeto é um aplicativo voltado para a divulgação de eventos na cidade e arredores, com o objetivo de conectar pessoas interessadas em atividades culturais, esportivas, gastronômicas, entre outras, com organizadores de eventos locais. O app permite aos usuários descobrir eventos próximos com base em sua localização, visualizar detalhes como data, horário, local, e adquirir ingressos, quando aplicável. Além disso, organizadores podem cadastrar e promover seus eventos, alcançando um público-alvo mais amplo.
 
 O problema que o app resolve é a dificuldade de encontrar e centralizar informações sobre eventos em um único lugar, facilitando o acesso a uma variedade de opções de entretenimento e atividades, além de promover o comércio e a cultura local.
