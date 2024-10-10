@@ -24,3 +24,6 @@ Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus 
 - Maria Isabela - GitHub - maria.saito.senai@gmail.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+
+![Imagem de capa](assets/img/card/readme.png)
