@@ -1,7 +1,7 @@
 ![Imagem de capa](assets/img/card/readme.png)
 
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
-# Nome do Projeto
+# Eventfy app de eventos culturais
 **Descrição:** 
 O projeto é um aplicativo voltado para a divulgação de eventos na cidade e arredores, com o objetivo de conectar pessoas interessadas em atividades culturais, esportivas, gastronômicas, entre outras, com organizadores de eventos locais. O app permite aos usuários descobrir eventos próximos com base em sua localização, visualizar detalhes como data, horário, local, e adquirir ingressos, quando aplicável. Além disso, organizadores podem cadastrar e promover seus eventos, alcançando um público-alvo mais amplo.
 
