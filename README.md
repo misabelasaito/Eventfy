@@ -1,3 +1,5 @@
+![Imagem de capa](assets/img/card/readme.png)
+
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Nome do Projeto
 **Descrição:** 
@@ -26,4 +28,3 @@ Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 
-![Imagem de capa](assets/img/card/readme.png)
