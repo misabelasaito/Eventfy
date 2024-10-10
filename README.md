@@ -6,10 +6,10 @@ O projeto é um aplicativo voltado para a divulgação de eventos na cidade e ar
 
 O problema que o app resolve é a dificuldade de encontrar e centralizar informações sobre eventos em um único lugar, facilitando o acesso a uma variedade de opções de entretenimento e atividades, além de promover o comércio e a cultura local.
 ## Índice
-- Funcionalidades
-- Tecnologias Utilizadas
-- Autores
-- Licença
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Autores](#autores)
+- [Licença](#licença)
 ## Funcionalidades
 - Pagina para realizar cadastro 
  - Pagina para realizar login 
